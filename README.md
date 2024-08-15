@@ -1,5 +1,5 @@
 # MNIST Handwritten Digit Classification
-<h3>Steps:</h3>
+<h3><b>Steps:</b></h3>
 <ol>
   <li>Dataset Collection (available in Keras itself)</li>
   <li>Input Image Processing
